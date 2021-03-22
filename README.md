@@ -1,6 +1,7 @@
-# Pewlett-Hackard-Analysis overview
+# Pewlett-Hackard-Analysis Overview
+  
 ## Results
 ### Summary
-
-<iframe style="border-style: none;" src="https://github.com/lisetteworster/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv" height="950" width="600"></iframe>
-
+  How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+![](Pewlett-Hackard-Analysis/employeedb.png)
